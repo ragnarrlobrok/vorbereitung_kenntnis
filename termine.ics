@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Lernbegleitung//Kenntnispruefung 2026//DE
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:zoom-1-20261012@lernvorbereitung.local
+DTSTAMP:20261012T060000Z
+DTSTART:20261012T080000Z
+SUMMARY:Zoom 1 Prüfungsvorbereitung
+DESCRIPTION:Mündliche und praktische Prüfung gemeinsam vorbesprechen. Zo
+ om-Link über die persönliche Einladung.
+END:VEVENT
+BEGIN:VEVENT
+UID:zoom-2-20261020@lernvorbereitung.local
+DTSTAMP:20261012T060000Z
+DTSTART:20261020T100000Z
+SUMMARY:Zoom 2 Fallnachbesprechung
+DESCRIPTION:Übungsfall besprechen und letzte Fragen zu den Übungstagen k
+ lären.
+END:VEVENT
+BEGIN:VEVENT
+UID:muendlich-20261029@lernvorbereitung.local
+DTSTAMP:20261012T060000Z
+DTSTART:20261029T150000Z
+DTEND:20261029T161500Z
+SUMMARY:Mündliche Prüfungssimulation
+DESCRIPTION:16 Uhr Vorbereitung. 16:30 Uhr Prüfung. Pflegeplanung 60 bis 
+ 90 Minuten vor oder nach der mündlichen Simulation nach Absprache.
+END:VEVENT
+BEGIN:VEVENT
+UID:praktisch-20261030@lernvorbereitung.local
+DTSTAMP:20261012T060000Z
+DTSTART:20261030T060000Z
+SUMMARY:Praktische Prüfungssimulation
+DESCRIPTION:Beginn 07 Uhr vor Ort. Ende nach Ablauf der konkreten Pflegesi
+ tuationen und Reflexion.
+END:VEVENT
+END:VCALENDAR
